@@ -9,11 +9,13 @@ Die Einzelvorträge sind im Markdown-Format geschrieben und werden mit [reveal-m
 
 ## Starten der Präsentationen
 
-    ```reveal-md NAME.md```
+```
+reveal-md NAME.md
+```
 
 ## Editieren der Präsentation
 
-* Starten mit Live-Reload ```reveal-md NAME.md -w```
+* Starten mit Live-Reload `reveal-md NAME.md -w`
 * Bilder, Sounds, andere externe Dateien kommen in `assets/VORTRAGSTITEL`
 * Beispielpräsentation is `sample_presentation.md`
 
