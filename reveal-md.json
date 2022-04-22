@@ -1,0 +1,6 @@
+{
+    "theme": "theme/kazoosh.css",
+    "scripts": [
+      "plugin.js"
+      ]
+  }

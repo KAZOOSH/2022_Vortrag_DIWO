@@ -1,0 +1,12 @@
+{
+    "hash": true,
+	"slideNumber": true,
+	"progress": false,
+	"controls": true,
+	"mouseWheel": true,
+	"width": 1920,
+	"height": 1080,
+	"disableLayout": true,
+	"transition": "fade",
+	"transitionSpeed": "fast"
+  }
