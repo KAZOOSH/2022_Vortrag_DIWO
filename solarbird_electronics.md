@@ -1,4 +1,21 @@
-## Eine einfache Überschrift
+# SOLARBIRD ELECTRTONICS
+<!-- .slide: data-background="assets/electronics/v1.jpg"" data-background-interactive -->
+---
+
+## JOHANNES FRITZSCHE
+- bei Kazoosh! seit 2011
+
+- 1985 bis 1990 ZMD Messtechnik (Wafer, U61000)
+- 1992 bis 1994 Lehre Kommunikationselektroniker bei Rohde und Schwarz
+- 1994 bis 1995 Neumann und Müller Veranstaltungstechnik
+- 1995 bis 2004 SAEK Hörfunkstudio (Evosonic, Neon425, Apparillo)
+- 2004 bis heute EBD gGmbH FKA
+- 1Sohn Conrad *1999
+
+---
+
+
+## SOLARBIRD ODER FLIMMERFEEN 4.0
 - ein Stichpunkt
 - noch ein Stichpunkt
 - mit "o" sieht man alle Folien in der Übersicht
@@ -42,5 +59,5 @@ Note:
 ---
 
 ## Externer Iframe
-<!-- .slide: data-background-iframe="https://github.com/KAZOOSH/solarbird/blob/main/circuit/spice/circuit.png" data-background-interactive -->
+<!-- .slide: data-background-iframe=" 25mmhg.net" data-background-interactive -->
 
