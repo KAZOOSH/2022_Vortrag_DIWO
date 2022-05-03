@@ -42,5 +42,5 @@ Note:
 ---
 
 ## Externer Iframe
-<!-- .slide: data-background-iframe="https://kazoosh.com" data-background-interactive -->
+<!-- .slide: data-background-iframe="https://github.com/KAZOOSH/solarbird/blob/main/circuit/spice/circuit.png" data-background-interactive -->
 
