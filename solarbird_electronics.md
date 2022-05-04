@@ -28,7 +28,7 @@ Flimmerfeen 0.0
 - ROT High Power
 - KEINE FUNKTION, SIEHT ABER GUT AUS
 ---
-<!-- .slide: data-background="assets/electronics/v1_1.jpg" data-background-interactive -->
+<!-- .slide: data-background="assets/electronics/v1_1.JPG" data-background-interactive -->
 ---
 
 ## SOLARBIRD  ODER  FLIMMERFEEN 3.0
@@ -127,10 +127,16 @@ https://github.com/KAZOOSH/solarbird
 ---
 
 ## FRAGEN?
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>  
->https://github.com/25mmHg
+<div style=" bottom: 0;position: relative;width:100%">
 <br>
->Vielen Dank für Ihre Aufmerksamkeit!
-<!-- .slide: data-background="assets/electronics/ende.jpg" data-background-interactive -->
----
+https://github.com/25mmHg
+<br>
+Vielen Dank für Ihre Aufmerksamkeit!
+</div>
+<div class="r-hstack">
+<div><img width="700rem" height="20%" class="padding-gallery object-fit_cover" src="assets/electronics/ende.jpg">
+</div>
+
+
+
+
