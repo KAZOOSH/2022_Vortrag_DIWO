@@ -17,7 +17,7 @@ reveal-md NAME.md
 
 * Starten mit Live-Reload `reveal-md NAME.md -w`
 * Bilder, Sounds, andere externe Dateien kommen in `assets/VORTRAGSTITEL`
-* Beispielpräsentation is `sample_presentation.md`
+* Beispielpräsentation ist `sample_presentation.md`
 
 ### Übersicht
 
