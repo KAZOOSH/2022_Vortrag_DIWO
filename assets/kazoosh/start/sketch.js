@@ -1,4 +1,5 @@
-
+let font;
+let showText = false;
 
 let shaderBlend;
 let img;
@@ -10,6 +11,7 @@ let snap;
 function preload() {
   shaderBlend = loadShader('shader.vert', 'shader.frag');
   img = loadImage('kazoosh_logo_detail_white.png');
+  font = loadFont("Dosis-Regular.ttf");
 }
 
 function setup() {
@@ -34,7 +36,8 @@ function setup() {
   snap = createGraphics(img.width, img.height);
   snap.copy(img,0,0,img.width,img.height,0,0,img.width,img.height); 
 
-  console.log(wImg,hImg);
+  textFont(font);
+  textSize(windowWidth*0.04);
 }
 
 
@@ -52,5 +55,18 @@ function draw(){
   translate(0.5*(windowWidth-wImg),0.5*(windowHeight-hImg),0);
   quad(0, 0, wImg, 0, wImg, hImg,0,hImg);
   pop();
+
+  // draw a text
+  if(showText){
+    push();
+    translate(0,0.35*windowHeight,0);
+    textAlign(CENTER);
+    text("Freie Plattform für digitales Basteln.", 0,0);
+    pop();
+  }
   
+}
+
+function mousePressed() {
+  showText = true;
 }

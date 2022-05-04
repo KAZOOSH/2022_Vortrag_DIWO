@@ -1,20 +1,9 @@
+## Solarbird - Federkleid
 
-## Lehre für Gestalten mit Programmcode
-
-- Lehrveranstaltungen
-- Unterstützung bei Umsetzung studentischer Projekte
-- Praktisches Vorantreiben des Umsetzens interaktiver Prototypen
+<!-- .slide: data-background="assets/solarbird_case/titel.jpg" data-background-size="contain" -->
 
 ---
 
-## test
+## Solarbird - Federkleid
 
-<div class="r-hstack">
-	<img width="900" height="900" class="padding-gallery object-fit_cover"
-						src="presentation/img/reddo1.png">
-					<img width="900" height="900" class="object-fit_cover" src="presentation/img/reddo2.jpg">
-</div>
-
----
-
-## test2
+<!-- .slide: data-background="assets/solarbird_case/michi.png" data-background-size="contain" -->
